@@ -1,0 +1,87 @@
+
+*{
+margin:0;
+padding:0;
+}
+
+.big{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+}
+
+.row{
+    float: left;
+}
+
+.item{
+    float:left;
+    height:300px;
+    width:280px;
+    border: 1px red solid;
+    margin: 2px;
+    padding:7px;
+}
+.price{
+    float: left;
+    margin-top: 2px;
+    
+}
+.oldprice{
+    color: red;
+    font-size: 12px;
+    width: 65px;
+    text-decoration: line-through;
+    float: left;
+    margin-top: 10px;
+}
+
+.saleprice{
+    color: green;
+    font-size: 18px;
+    width: 65px;
+    float: left;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.image{
+   height: 50%;
+}
+
+.caption{
+    margin-top: 15px;
+}
+.clearfix{
+    clear: both;
+}
+
+
+.addtocart{
+    background-color: blue;
+    color: white;
+}
+button{
+padding:15px;
+border-color: blue;
+font-size: 12px;
+margin-top: 2px;
+
+}
+.like{
+    background-color: white;
+    color: blue;
+}
+
+.description{
+    width:70%
+}
+
+p{
+    margin-top: 2px;
+}
